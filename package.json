@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "@types/node": "^13.5.0",
-    "ts-loader": "^6.2.1",
+    "ts-loader": "^9.4.2",
     "typescript": "^3.7.5"
   },
   "devDependencies": {
